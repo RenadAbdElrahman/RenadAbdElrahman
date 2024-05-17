@@ -74,9 +74,7 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="8" />
-  
-   <img width="8" />
-  <img src="https://iconduck.com/icons/27728/node-js" height="30" alt="codepen logo"  />
+ 
  
 ###
 
