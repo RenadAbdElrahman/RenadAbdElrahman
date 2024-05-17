@@ -39,7 +39,7 @@
 👋 Hi, I’m @RenadAbdElrahman.<br><br>
 💡 I enjoy learning about new technologies and creating software solutions.<br><br>
 👀 I’m interested in Web Development.<br><br>
- Front End React.js.<br><br>
+📫 Front End React.js.<br><br>
 📫 Back End Node.js.<br><br>
 ⚡ Front End instructor @ Atomika.<br><br>
 </h5>
